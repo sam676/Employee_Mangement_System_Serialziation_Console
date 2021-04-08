@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
+
+// An employee management system that uses serialization and the console for display.
+
+
 namespace EmployeeRepoConsoleSerialziation
 {
     class Program
